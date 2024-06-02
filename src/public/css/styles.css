@@ -1,0 +1,39 @@
+/* Estilos para el fondo del body */
+body {
+    background-color: #f8f9fa;
+  }
+  
+  /* Estilos para el color y tamaño del texto del navbar */
+  .navbar-brand,
+  .navbar-nav .nav-link {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  /* Estilos para el color de fondo y texto del navbar cuando está activo */
+  .navbar-nav .nav-item.active .nav-link {
+    background-color: #343a40;
+  }
+  
+  /* Estilos para el color de texto del navbar al pasar el mouse por encima */
+  .navbar-nav .nav-item .nav-link:hover {
+    color: #ffc107;
+  }
+  
+  /* Estilos para el color y tamaño del texto de los enlaces en el contenido */
+  .container a {
+    color: #007bff;
+    font-size: 16px;
+  }
+  
+  /* Estilos para el tamaño del título de la página */
+  .container h1 {
+    font-size: 24px;
+  }
+  
+  /* Estilos para el espacio entre los elementos del navbar */
+  .navbar-nav .nav-item {
+    margin-right: 10px;
+  }
+
